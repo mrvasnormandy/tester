@@ -11,6 +11,7 @@ public class Config {
 	private static Config config;
 	private final Properties properties;
 
+	
 	private Config(Properties properties) {
 		this.properties = properties;
 	}
